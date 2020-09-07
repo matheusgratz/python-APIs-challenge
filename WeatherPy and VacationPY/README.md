@@ -7,10 +7,10 @@ Heat map:
 ![Heat Map](output_data/Heatmap.png)
 
 Hotel:
-![Hotel Map](output_data/Hotel_map.png)
+![Hotel Map](output_data/Hotel_Map.png)
 
 Hotel with Info:
-![Hotel Map Info](output_data/Hotel_map_info.png)
+![Hotel Map Info](output_data/Hotel_Map_info.png)
 
 Thanks,
 Matheus
